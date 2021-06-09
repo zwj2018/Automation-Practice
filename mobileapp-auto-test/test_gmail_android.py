@@ -5,7 +5,7 @@ from pageobjects.inbox_page import InboxPage
 from pageobjects.welcome_page import WelcomePage
 
 
-@pytest.mark.smoke
+# @pytest.mark.smoke
 class GmailAppTestAndroid(BaseTest):
 
     def test_gmail_login(self):
