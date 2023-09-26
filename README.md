@@ -10,7 +10,7 @@ This python repo shows Wendy's automated testing skills, it includes:
 3. Print out the total number of tests that failed and their test name, time and status
 4. Print out the total number of tests that are blocked
 5. Print out the total number of tests that took more than 10 seconds to execute
-6. Provide screenshots of the console output if possible
+6. Provide screenshots of the console output if possible 
 
 # Assignment-2: the framework of the web app : selenium webdriver + pytest
 1. Browse to http://slashdot.org/
